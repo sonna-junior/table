@@ -1,0 +1,21 @@
+/* table {
+    border-collapse: collapse;
+    position: relative;
+    left: 30rem;
+    top: 10rem;
+}
+
+th, td {
+    border: 2px solid black;
+}
+
+caption {
+    text-align: center;
+    position: relative;
+    bottom: 2rem;
+    text-decoration: underline;
+}
+
+.total {
+    background-color: red;
+} */
